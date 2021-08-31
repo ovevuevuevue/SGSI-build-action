@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
-  ZIP_NAME: 'update.zip'
+  ROM_URL: 'https://download.c.realme.com/osupdate/RMX2001_11_OTA_0650_all_3MdwmJbU9cyL.ozip'
+  ZIP_NAME: 'rmx2001.zip'
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
-  REPACK_NAME: 'SGSI.zip'
-  VERSION: '12'
+  REPACK_NAME: 'realme6rui1.0.zip'
+  VERSION: '10'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
